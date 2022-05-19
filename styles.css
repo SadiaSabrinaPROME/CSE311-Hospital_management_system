@@ -1,0 +1,23 @@
+body{
+background-color:#63C5DA ;
+
+}
+#login li{
+ list-style-type: none;
+ padding: 0;
+}
+a{
+text-decoration: none;
+text-align: center;
+color: black;
+}
+#button1{
+  align-items: center ;
+  border-color: rgb(0, 0, 238);
+  border-style: none;
+  box-sizing: content-box;
+  color: rgb(0, 0, 238);
+  height: auto;
+  padding: 50px;
+  text-align: center ;
+}
